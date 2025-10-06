@@ -8,7 +8,7 @@ Aquí trobaràs l’arxiu amb la solució i les captures de pantalla corresponen
 ## 📄 Contingut
 
 - **[solució.md](./solució.md)** — Documentació completa de la tasca.
-- **Carpeta [img/](./img/)** — Imatges i captures de pantalla utilitzades a la documentació.
+- **Carpeta [IMG/](./IMG/)** — Imatges i captures de pantalla utilitzades a la documentació.
 
 ---
 
