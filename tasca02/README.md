@@ -97,5 +97,5 @@ Amb la implantació del **SAI APC Smart-UPS 2200VA**, TecnoGestió S.L. obtindr�
 
 ---
 
-> 🖇️ [Fes clic aquí per accedir directament a la solució](./solucio.md)
+> 🖇️ [Fes clic aquí per accedir directament a la solució](./solució.md)
 
