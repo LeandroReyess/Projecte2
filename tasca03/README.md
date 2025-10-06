@@ -8,7 +8,7 @@ Inclou un fitxer amb la solució i les captures de pantalla necessàries.
 ## 📄 Contingut
 
 - **[solució.md](./solució.md)** — Documentació completa de la tasca.
-- **Carpeta [img/](./img/)** — Conté totes les imatges PNG.
+- **Carpeta [IMG/](./IMG/)** — Conté totes les imatges PNG.
 
 ---
 
