@@ -7,8 +7,8 @@ Aquest projecte té com a objectiu practicar la creació d’estructures de dire
 
 ## 📂 Estructura del projecte
 
-- **[Tasca 2](./Tasca2/README.md)** — Activitat pràctica amb documentació i captures de pantalla.  
-- **[Tasca 3](./Tasca3/README.md)** — Segona activitat amb explicació i exemples.
+- **[Tasca 2](./tasca02/README.md)** — Activitat pràctica amb documentació i captures de pantalla.  
+- **[Tasca 3](./tasca03/README.md)** — Segona activitat amb explicació i exemples.
 
 ---
 
