@@ -1,94 +1,84 @@
-# ⚡ T02: Informe tècnic — Estudi i selecció d’un SAI per a TecnoGestió S.L.
+# ⚡ T02: Estudi i selecció d’un SAI per a TecnoGestió S.L.
 
+## 🏢 Breu descripció
+
+L’empresa **TecnoGestió S.L.**, dedicada a la gestió documental i a l’assessorament informàtic, disposa d’un petit despatx amb:
+- 4 ordinadors de sobretaula  
+- 1 impressora-fotocopiadora multifunció  
+- 1 router d’accés a Internet  
+
+A causa de les **incidències freqüents amb el subministrament elèctric**, la direcció ha decidit adquirir un **SAI (Sistema d’Alimentació Ininterrompuda)** per garantir la **continuïtat del servei** i **protegir els equips** davant possibles talls de corrent.
+
+---
+
+## 🎯 Objectiu de la tasca
+
+Dur a terme un **estudi tècnic complet** per seleccionar el **model de SAI més adequat** per a l’empresa, tenint en compte:
+- El **consum elèctric** dels equips connectats  
+- El **temps d’autonomia mínim necessari**  
+- La **capacitat i potència del SAI**  
+- El **pressupost i les prestacions** del mercat actual  
+
+---
+
+## 🧩 Tasques a realitzar
+
+### 1️⃣ Inventari d’equips
+- Elaborar una **llista de dispositius** que es connectaran al SAI (ordinadors, monitors, router, etc.).
+- Justificar si **hi ha algun equip que no cal connectar-hi** (p. ex. la impressora, per consum elevat o no essencial).
+
+### 2️⃣ Consulta d’especificacions tècniques
+- Cercar les **característiques i consums reals (W i VA)** dels equips seleccionats.  
+- Seleccionar **models equivalents** als que podríeu trobar a la seu del client.
+
+### 3️⃣ Càlcul de potència total
+- Calcular la **potència total necessària** sumant els consums de tots els equips.  
+- Afegir-hi una **reserva del 20%** per seguretat i possibles ampliacions futures.
+
+### 4️⃣ Determinació de l’autonomia
+- Estimar el **temps mínim d’autonomia** necessari del SAI (p. ex. 10 minuts)  
+  per permetre **guardar treballs i apagar els equips correctament**.
+
+### 5️⃣ Recerca de models de SAI
+- Investigar **2 o 3 models de SAI** que compleixin els requisits de potència i autonomia.  
+- Comparar-los segons:
+  - Potència (W/VA)
+  - Temps d’autonomia
+  - Tipus de sortides (Schuko, IEC, etc.)
+  - Preu i marca
+  - Fiabilitat i servei tècnic
+
+### 6️⃣ Elaboració de l’informe tècnic
+- Redactar un document que inclogui:
+  - Els **càlculs realitzats**
+  - Els **models analitzats**
+  - La **justificació de la tria final**
+- Incloure-hi **taules comparatives** i **imatges de referència**.
+
+---
+
+## 📘 Material de suport
+- Apunts del mòdul **RA1AA3 - El SAI**  
+- Documentació tècnica dels fabricants  
+- Informació obtinguda a **pàgines de proveïdors** (APC, Eaton, Riello, etc.)
+
+---
+
+## 📄 Resultat final esperat
+Al final de la tasca, s’ha d’obtenir un **informe tècnic complet** amb:
+- Càlculs de potència i autonomia  
+- Comparativa de models  
+- Justificació de la selecció final  
+- Conclusions sobre la solució més adequada per a **TecnoGestió S.L.**
+
+---
+
+## 👨‍💻 Autor
 **Nom:** Leandro Linares de los Reyes  
 **Data:** 02/10/2025  
 **Curs:** SMX2 B  
-**Mòdul:** Seguretat  
-**Enllaç complet:** [Informe tècnic a Google Docs](https://docs.google.com/document/d/17Y95xV2tYxh0UTtLyEXzIkPZsqqKKUPNeSlX8CMuJZQ/edit?usp=sharing)
+**Mòdul:** Seguretat
 
----
-
-## 📑 Índex
-1. [Descripció del cas](#1-descripció-del-cas)  
-2. [Càlculs](#2-càlculs)  
-3. [Temps d’autonomia](#3-temps-dautonomia)  
-4. [Simulació al proveïdor](#4-simulació-al-proveïdor)  
-5. [Solució justificada](#5-solució-justificada)  
-6. [Conclusions](#6-conclusions)
-
----
-
-## 1️⃣ Descripció del cas
-
-L’empresa **TecnoGestió S.L.** disposa de:
-- 4 ordinadors de sobretaula  
-- 4 monitors  
-- 1 impressora multifunció  
-- 1 router d’accés a Internet  
-
-Com que hi ha **talls elèctrics freqüents**, es vol instal·lar un **SAI (Sistema d’Alimentació Ininterrompuda)** per protegir els equips i garantir la continuïtat del servei.
-
-**Equips a connectar:**
-- 💻 Ordinadors i monitors → *Sí, per evitar pèrdua de dades*  
-- 🌐 Router → *Sí, per mantenir connexió bàsica*  
-- 🖨️ Impressora → *No, pel consum elevat i baixa prioritat*
-
----
-
-## 2️⃣ Càlculs
-
-| Dispositiu | Quantitat | Consum (W) | Consum (VA) |
-|-------------|------------|-------------|--------------|
-| PC sobretaula | 4 | 250 W | 312 VA |
-| Monitor LED 24” | 4 | 30 W | 38 VA |
-| Router | 1 | 15 W | 19 VA |
-| **Total parcial** | — | **1.075 W** | **1.365 VA** |
-
-> 🔹 Amb un 20% de reserva → **1.290 W / 1.638 VA**
-
-👉 El SAI ha de tenir una **capacitat mínima de 1.300 W / 1.650 VA**.
-
----
-
-## 3️⃣ Temps d’autonomia
-
-Objectiu: mantenir els equips actius durant **mínim 10 minuts** per guardar la feina i apagar amb seguretat.
-
----
-
-## 4️⃣ Simulació al proveïdor
-
-| Model | Potència (W/VA) | Autonomia (50%) | Sortides | Preu |
-|--------|------------------|------------------|-----------|-------|
-| **APC Smart-UPS 2200VA** | 1980W / 2200VA | ~12 min | 8 Schuko | ~900 € |
-| **Eaton 5PX 2200i RT2U** | 1980W / 2200VA | 9–11 min | 8 IEC | ~950 € |
-| **Riello Vision Dual 2200** | 1760W / 2200VA | ~10 min | Schuko + IEC | ~750 € |
-
----
-
-## 5️⃣ Solució justificada
-
-✅ **Model recomanat:** *APC Smart-UPS 2200VA (SMT2200I)*  
-**Motivació:**
-- Potència sobrada: 1980 W vs 1290 W requerits  
-- Autonomia superior als 10 minuts  
-- Marca fiable i amb servei tècnic  
-- Sortides Schuko adequades per a oficina  
-
----
-
-## 6️⃣ Conclusions
-
-Amb la implantació del **SAI APC Smart-UPS 2200VA**, TecnoGestió S.L. obtindrà:
-
-- 🔒 Protecció davant talls elèctrics  
-- ⚙️ Continuïtat del servei durant incidències breus  
-- 💾 Apagat segur dels sistemes  
-- 💰 Solució professional amb cost raonable (~900 €)
-
-> En resum: el SAI proposat garanteix seguretat, estabilitat i eficiència energètica dins d’un entorn d’oficina professional.
-
----
 
 ## 📄 Contingut
 
