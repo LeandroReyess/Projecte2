@@ -1,6 +1,6 @@
 # T08: Assessorament de domini i hosting (Clients 7 i 8)  
-Nom: [El teu nom]  
-Data: [Data d'entrega]  
+Nom: Leandro Linares de los Reyes
+Data: 17/10/25
 Curs: SMX2 B  
 Mòdul: Seguretat i Serveis de Xarxa  
 
