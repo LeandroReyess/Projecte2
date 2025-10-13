@@ -1,1 +1,40 @@
+# T08: Assessorament de domini i hosting (per client assignat) - Aplicacions web  
+Nom: Leandro Linares de los Reyes
+Data: 17/10/2025
+Curs: SMX2 B  
+Mòdul: Seguretat i Serveis de Xarxa  
 
+---
+
+## 1️⃣ Presentació del client  
+- Breu descripció del negoci  
+- Objectius principals de la web  
+- Requeriments tècnics identificats  
+
+## 2️⃣ Anàlisi de dominis  
+- Criteris per al naming (identitat, SEO, extensió preferida)  
+- Alternatives de dominis disponibles  
+- Recomanació final de domini  
+
+## 3️⃣ Comparativa de hostings  
+
+| Proveïdor  | Espai disc | Transferència | Preu        | Pros                   | Contres               |  
+|------------|------------|---------------|-------------|------------------------|-----------------------|  
+| Hosting A  |            |               |             |                        |                       |  
+| Hosting B  |            |               |             |                        |                       |  
+| Hosting C  |            |               |             |                        |                       |  
+
+## 4️⃣ Checklist de requeriments complerts  
+- [x] SSL inclòs  
+- [x] Backups automàtics  
+- [ ] Correu corporatiu  
+- [ ] CDN integrat  
+
+## 5️⃣ Recomanació final  
+- Hosting escollit: _______  
+- Domini recomanat: _______  
+- Justificació de la decisió  
+
+## 6️⃣ Conclusions  
+- Quins criteris han estat més decisius  
+- Per què aquesta proposta és la millor opció per al client  
